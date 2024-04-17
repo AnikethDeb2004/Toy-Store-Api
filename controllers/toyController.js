@@ -1,4 +1,4 @@
-// controllers/toyController.js
+
 const Toy = require('../models/Toy');
 const axios = require('axios');
 
