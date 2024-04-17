@@ -1,4 +1,4 @@
-// routes/toys.js
+
 const express = require('express');
 const router = express.Router();
 const toyController = require('../controllers/toyController');
