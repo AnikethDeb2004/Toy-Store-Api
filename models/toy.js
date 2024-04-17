@@ -1,4 +1,4 @@
-// models/Toy.js
+
 const mongoose = require('mongoose');
 
 const toySchema = new mongoose.Schema({
