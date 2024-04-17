@@ -1,4 +1,4 @@
-// middlewares/validateInput.js
+
 const { validationResult } = require('express-validator');
 
 exports.validateInput = (req, res, next) => {
